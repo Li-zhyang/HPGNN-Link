@@ -25,3 +25,5 @@ Datasets used in the paper are under `datasets/`.
     python run_model.py
     ```
 
+### Trained Model
+The trained models are under `save_model/`. Currently, we provide trained model on the FrenchRoyalty dataset, and models for other datasets will be open-sourced once the paper has been accepted.
